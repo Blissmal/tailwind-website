@@ -1,2 +1,5 @@
 # tailwind-tutorial
-All the course files for the Tailwind CSS tutorial on the Net Ninja YouTube channel.
+```
+npm i && live-server public
+```
+To run the project
